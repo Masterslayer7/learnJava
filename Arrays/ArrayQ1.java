@@ -1,3 +1,4 @@
+package Arrays;
 public class ArrayQ1 {
 
     public static int divBySum(int[] arr, int num){
