@@ -1,11 +1,9 @@
 /*
 Given the Array  [13, 7, 18, 5, 2]
-Remove the number  2
 Search for the min
 Search for the max
 Find the average 
 Swap 13 and 7
-Sort: largest to smallest
  * 
  */
 
